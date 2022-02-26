@@ -1,0 +1,37 @@
+site,site_ID,bottle,syringe,date,sample,lat_dec,long_dec,temperature
+north croker,site_1,D3,syringe,02/21/22,sample,49.26889,-122.52415,8.3
+north croker,site_1,D21,whirlpack,02/21/22,sample,49.26889,-122.52415,8.3
+north croker,site_1,D12,whirlpack,02/21/22,matrix,49.26889,-122.52415,8.3
+south croker,site_2,D15,syringe,02/21/22,sample,49.25787,-122.51875,8.1
+south croker,site_2,D11,whirlpack,02/21/22,sample,49.25787,-122.51875,8.1
+south croker,site_2,D4,whirlpack,02/21/22,matrix,49.25787,-122.51875,8.1
+silver falls,site_3,D16,syringe,02/21/22,sample,49.24816,-122.52918,8.3
+silver falls,site_3,D13,whirlpack,02/21/22,sample,49.24816,-122.52918,8.3
+silver falls,site_3,D20,whirlpack,02/21/22,matrix,49.24816,-122.52918,8.3
+north bunzten bay,site_4,D22,syringe,02/21/22,sample,49.23367,-122.52280,8.5
+north bunzten bay,site_4,D23,whirlpack,02/21/22,sample,49.23367,-122.52280,8.5
+north bunzten bay,site_4,D8,whirlpack,02/21/22,matrix,49.23367,-122.52280,8.5
+best point,site_5,D7,syringe,02/21/22,sample,49.22811,-122.52819,7.7
+best point,site_5,D14,whirlpack,02/21/22,sample,49.22811,-122.52819,7.7
+best point,site_5,D26,whirlpack,02/21/22,matrix,49.22811,-122.52819,7.7
+brighton,site_6,D10,syringe,02/21/22,sample,49.21700,-122.53465,7.9
+brighton,site_6,D24,whirlpack,02/21/22,sample,49.21700,-122.53465,7.9
+brighton,site_6,D25,whirlpack,02/21/22,matrix,49.21700,-122.53465,7.9
+twin islands,site_7,D6,syringe,02/21/22,sample,49.20969,-122.53593,8.0
+twin islands,site_7,D17,whirlpack,02/21/22,sample,49.20969,-122.53593,8.0
+twin islands,site_7,D27,whirlpack,02/21/22,matrix,49.20969,-122.53593,8.0
+jug island,site_8,D1,syringe,02/21/22,sample,49.19833,-122.54932,7.7
+jug island,site_8,D2,whirlpack,02/21/22,sample,49.19833,-122.54932,7.7
+jug island,site_8,D5,whirlpack,02/21/22,matrix,49.19833,-122.54932,7.7
+grey rock,site_9,F4,syringe,02/21/22,sample,49.18931,-122.56451,7.6
+grey rock,site_9,F5,whirlpack,02/21/22,sample,49.18931,-122.56451,7.6
+grey rock,site_9,F20,whirlpack,02/21/22,matrix,49.18931,-122.56451,7.6
+cates park,site_10,F16,syringe,02/21/22,sample,49.18207,-122.56875,7.5
+cates park,site_10,F26,whirlpack,02/21/22,sample,49.18207,-122.56875,7.5
+cates park,site_10,F27,whirlpack,02/21/22,matrix,49.18207,-122.56875,7.5
+carraholly,site_11,F23,syringe,02/21/22,sample,49.17587,-122.54546,7.3
+carraholly,site_11,F2,whirlpack,02/21/22,sample,49.17587,-122.54546,7.3
+carraholly,site_11,F3,whirlpack,02/21/22,matrix,49.17587,-122.54546,7.3
+boulder island,site_12,F11,syringe,02/21/22,sample,49.18701,-122.56296,7.5
+boulder island,site_12,F21,whirlpack,02/21/22,sample,49.18701,-122.56296,7.5
+boulder island,site_12,F22,whirlpack,02/21/22,matrix,49.18701,-122.56296,7.5
